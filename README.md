@@ -1,1 +1,1 @@
-# iEducated
+# iEducate
